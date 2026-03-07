@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0162-find-peak-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -26,4 +27,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
