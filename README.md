@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0162-find-peak-element/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
@@ -38,4 +39,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
