@@ -55,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
