@@ -24,10 +24,12 @@
 | [0162-find-peak-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0162-find-peak-element/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0162-find-peak-element/) | Medium |
+| [0704-binary-search](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
