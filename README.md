@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
