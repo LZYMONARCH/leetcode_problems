@@ -26,6 +26,7 @@
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0162-find-peak-element/) | Medium |
+| [0283-move-zeroes](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0704-binary-search/) | Easy |
@@ -48,6 +49,7 @@
 | [0061-rotate-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0283-move-zeroes](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
