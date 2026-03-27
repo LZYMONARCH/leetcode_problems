@@ -13,6 +13,7 @@
 | [0002-add-two-numbers](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@
 | [0206-reverse-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
