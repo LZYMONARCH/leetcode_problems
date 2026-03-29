@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0027-remove-element/) | Easy |
 | [0056-merge-intervals](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -47,6 +48,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0027-remove-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
