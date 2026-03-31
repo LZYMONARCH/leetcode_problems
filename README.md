@@ -30,6 +30,7 @@
 | [0162-find-peak-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0162-find-peak-element/) | Medium |
 | [0283-move-zeroes](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0506-relative-ranks](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0506-relative-ranks/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [1046-last-stone-weight](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1046-last-stone-weight/) | Easy |
@@ -44,6 +45,7 @@
 | [0015-3sum](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
+| [0506-relative-ranks](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0506-relative-ranks/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,5 +114,6 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0506-relative-ranks](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
