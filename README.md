@@ -86,6 +86,7 @@
 | [0061-rotate-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -110,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
