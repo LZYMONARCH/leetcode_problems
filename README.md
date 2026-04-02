@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@
 | [0162-find-peak-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0162-find-peak-element/) | Medium |
 | [0283-move-zeroes](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0506-relative-ranks](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0506-relative-ranks/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0704-binary-search/) | Easy |
