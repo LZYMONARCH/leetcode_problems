@@ -27,6 +27,7 @@
 | [0027-remove-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0027-remove-element/) | Easy |
 | [0056-merge-intervals](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0162-find-peak-element/) | Medium |
 | [0283-move-zeroes](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
@@ -47,6 +48,7 @@
 | [0015-3sum](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0506-relative-ranks](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0506-relative-ranks/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@
 | [0027-remove-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
