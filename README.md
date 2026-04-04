@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0027-remove-element/) | Easy |
+| [0054-spiral-matrix](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -123,4 +124,12 @@
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1046-last-stone-weight/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
