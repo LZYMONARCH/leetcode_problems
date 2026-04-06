@@ -78,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +138,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
