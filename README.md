@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
