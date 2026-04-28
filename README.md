@@ -16,6 +16,7 @@
 | [0007-reverse-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0704-binary-search/) | Easy |
 | [1046-last-stone-weight](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1046-last-stone-weight/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,4 +157,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
