@@ -28,6 +28,7 @@
 | [0015-3sum](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0027-remove-element/) | Easy |
 | [0054-spiral-matrix](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
