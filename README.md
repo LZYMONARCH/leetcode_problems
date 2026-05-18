@@ -15,6 +15,7 @@
 | [0002-add-two-numbers](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0062-unique-paths](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0062-unique-paths/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## String
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0062-unique-paths/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -161,4 +163,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
