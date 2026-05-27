@@ -24,6 +24,7 @@
 | [0013-roman-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@
 | [0055-jump-game](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0062-unique-paths/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0152-maximum-product-subarray/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
