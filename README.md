@@ -15,6 +15,7 @@
 | [0002-add-two-numbers](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0062-unique-paths/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Heap (Priority Queue)
