@@ -26,6 +26,7 @@
 | [0020-valid-parentheses](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0344-reverse-string](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0344-reverse-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@
 | [0141-linked-list-cycle](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0283-move-zeroes](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/LZYSHADOWMONARCH/leetcode_problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
